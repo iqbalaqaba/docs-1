@@ -19,12 +19,14 @@
 
 ## B
 
+- Bind: *Bind*
 - Browser: Peramban
 
 [⬆️](#navigasi-berdasarkan-abjad)
 
 ## C
 
+- Chain: Rantai (atau bisa dengan tetap *Chain*)
 - Child: Anak
 - Component: Komponen
 - Console: Konsol
@@ -33,6 +35,7 @@
 
 ## D
 
+- Define: Mendefinisikan
 - Development: Developmen, Pengembangan, Pembuatan (Pilih senatural mungkin)
 - Directive: Direktif
 
@@ -51,6 +54,7 @@
 
 - File: Berkas
 - Framework: Kerangka kerja
+- Function: *Function*
 
 [⬆️](#navigasi-berdasarkan-abjad)
 
@@ -141,6 +145,7 @@
 - Style: Gaya
 - Style Guide: Panduan Gaya
 - Single Page Application:	Aplikasi *Single-Page*
+- Single File Component: Komponen Berkas Tunggal (untuk penggunaan pertama kali dalam halaman tersebut, sertakan kata aslinya di dalam kurung)
 - Statement: Statemen
 - Syntax: Sintaksis
 
@@ -161,7 +166,9 @@
 
 ## V
 
+- Value: Nilai
 - Virtual DOM: DOM Virtual
+- 
 
 [⬆️](#navigasi-berdasarkan-abjad)
 
